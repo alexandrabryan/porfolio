@@ -1,0 +1,137 @@
+body {
+  Font-Family: 'Source Sans Pro', Sans-Serif;
+  font-weight: 400;
+  font-size: 18px;
+  background-color: #ffffff;
+  color: #3a3238;
+}
+
+h1, h2 {
+  Font-Family: 'Playfair Display', Serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+h1 {
+  Font-Size: 36px;
+}
+
+h2 {
+  Font-Size: 26px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/***** GRID *****/
+
+.full-width {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.third-width {
+  width: 33%;
+  float: left;
+}
+
+/***** HEADER SECTION *****/
+
+header {
+  height: 75px;
+}
+
+header h1 {
+  font-weight: 700;
+  padding: 20px 0 0 0;
+}
+
+nav {
+  float: right;
+  margin: 20px 40px;
+}
+
+nav ul li{
+  display: inline-block;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #303030;
+  padding-left: 25px; 
+  text-transform: uppercase;
+}
+
+#intro {
+  margin: 50px 40px 80px 40px;
+  width: 65%;
+
+}
+
+#intro img {
+  width: 250px;
+  float: left;
+  margin: 15px; 
+}
+
+#intro span{
+  color: #db2763;
+}
+
+/***** ABOUT SECTION *****/
+#about {
+  background-color: #db2763;
+  padding: 20px 50px;
+  color: #ffffff;
+  line-height: 28px;
+}
+
+#about p{
+  font-weight: 300;
+}
+
+#about a {
+  color: #ffffff;
+}
+
+
+/***** PORTFOLIO SECTION *****/
+#work {
+  margin: 60px;
+  text-align: center;
+  height: 425px;
+}
+
+#work img{
+  padding: 20px;
+}
+
+
+/***** CONTACT SECTION *****/
+#contact {
+  padding: 25px;
+  text-align: center;
+  background-color: #db2763;
+  height: 200px;
+  color: #ffffff;
+}
+
+#contact p {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+#contact a {
+  color: #ffffff;
+}
+
+#contact ul li{
+  display: inline-block;
+  text-align: center;
+}
+
+#contact ul li a {
+  text-decoration: none;
+  padding-left: 10px; 
+}
