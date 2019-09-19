@@ -95,6 +95,10 @@ nav ul li a {
   color: #ffffff;
 }
 
+#about h2 {
+  text-align: center;
+}
+
 
 /***** PORTFOLIO SECTION *****/
 #work {
