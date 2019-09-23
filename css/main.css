@@ -131,6 +131,10 @@ nav ul li a {
   color: #ffffff;
 }
 
+#contact ul{
+  padding-inline-start: 0px;
+}
+
 #contact ul li{
   display: inline-block;
   text-align: center;
