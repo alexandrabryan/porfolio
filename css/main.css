@@ -83,7 +83,7 @@ nav ul li a {
 /***** ABOUT SECTION *****/
 #about {
   background-color: #db2763;
-  padding: 20px 50px;
+  padding: 35px 60px;
   color: #ffffff;
   line-height: 28px;
 }
@@ -138,7 +138,7 @@ nav ul li a {
 #contact ul li{
   display: inline-block;
   text-align: center;
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 #contact ul li a {
